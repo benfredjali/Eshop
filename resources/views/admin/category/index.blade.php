@@ -3,7 +3,7 @@
 @section('content')
     <div class="card">
         <div class="card-body">
-            <h1>ALI BENFREDJ admin</h1>
+            <h1>Category</h1>
         </div>
     </div>
     
